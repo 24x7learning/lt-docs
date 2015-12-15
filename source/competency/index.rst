@@ -1,0 +1,7 @@
+**Competency**
+---------------
+
+.. toctree::
+   :titlesonly:
+
+   competency

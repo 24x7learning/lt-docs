@@ -1,0 +1,7 @@
+**Forum**
+----------
+
+.. toctree::
+   :titlesonly:
+
+   forum
