@@ -104,7 +104,7 @@
     | - |Cancel-Tab|: Users not attending the trainings can cancel the training nominations.
     | - |Session-Tab|: It displays *WebEx session* details for the users.
     | - |Download-Tab|: Users can download the course completion certificate for *SCORM, AICC, xAPI* courses and the *classroom trainings*.
-    | - |Action-Plan|: Users can provide the *action plan* details for classroom trainings.
+    | - |Action-Plan|: Users can provide response to the attached *action plan task* for the classroom trainings.
     | - |Prework-Tab|: It allows users to upload the pre-work resources and also displays any resources uploaded by the administrator.
     | - |Assessment-Tab|:
 
@@ -154,10 +154,28 @@
 
 **My Action Plans**
 ===================
-* The action plan task assigned to the user by the reporting manager wil be listed under this tab.
-* The user must provide reviews on the assigned action plan task.
-.. note:: A mail notifications is sent to the reporting nanager on the completed action plan task.
-* The reviewed action plan task details is sent to the reporting manager/ supervisor.
+* The newly assigned action plan tasks to the user by the reporting manager will be listed under this tab.
+* The user must provide response to the assigned action plan task.
+.. note:: A mail notification is sent to the reporting manager on the completed action plan task.
+* The action plan task response details is sent to the reporting manager/ supervisor for the review.
+
+*To provide action plan task response:*
+
+   | * Click **My Action Plans**. The following **Action Plan Task Details** screen appears as shown below.
+
+          .. image:: _static/action_plan_task_det.png
+             :height: 500px
+             :width: 500 px
+             :scale: 120 %
+             :align: center
+
+   | * Click **Review**. The following **Action Plan Details** screen appears as shown below.
+
+        .. image:: _static/action_plan_apraised.png
+           :height: 350px
+           :width: 500 px
+           :scale: 120 %
+           :align: center
 
 
 

@@ -119,13 +119,36 @@
 **Pending Action Plan Task Creation**
 ------------------------------------
 * Once the classroom training starts and the attendance is taken by the administrator/ trainer, the action plan task creation will be available to the reporting manager under the **Team > Pending Action Plan Task Creation** tab.
-* The reporting manager/supervisor must create :ref:`action plan tasks <action plans>` for the user on the completed trainings.
+* The reporting manager/supervisor must create :ref:`action plan tasks <action plans>` on the completed classroom trainings.
 .. note:: The reporting manager will receive mail notifications for the action plan task creation for the particular user.
-* The supervisor add's the task to the action plan.
-.. note:: The user will receive a mail notifications on the assigned action plan task.
-* On user account, the user must give review on the assigned action plan task.
+* The  reporting manager/supervisor create's the task for the action plan.
 
+*To create action plan task:*
 
+    | * Click **Team > Pending Action Plan Task Creation**. The following **Pending Action Plan Task Creation** screen appears as shown below.
+
+      .. image:: _static/action_plan_task_crt.png
+         :height: 250px
+         :width: 500 px
+         :scale: 120 %
+         :align: center
+
+    | * Click **New Task** to create new task for the action plan. The following **Create Task** screen appears as below.
+
+      .. image:: _static/crt_task.png
+         :height: 250px
+         :width: 500 px
+         :scale: 120 %
+         :align: center
+
+         | * Fill-in the relevant details and click **Submit**.
+
+.. note:: The user will receive a mail notifications on the newly added action plan task.
+* On user account, the user must provide review on the newly assigned action plan task.
+
+*To view action plan task details:*
+
+    | * Click **Task Details** to view information on the 
 
 **Pending Action Plan Task Review**
 ----------------------------------
