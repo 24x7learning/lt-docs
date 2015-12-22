@@ -49,7 +49,7 @@ Gamification is the process used to increase the engagement of LMS, by rewarding
                     | -	*Users are awarded points for answering all the surveys, within 24 hours*.
                     | - *Users are awarded points for accessing the first assigned course*.
 
-                              .. note:: -	Any of the courses like AICC/ SCORM (or) Assessments launched for the first time in the portal, the points are assigned.
+                              .. note:: - Any of the courses like AICC/ SCORM (or) Assessments launched for the first time in the portal, the points are assigned.
                                         - Points are not defined for the type of course.
 
                     | -	*Users are awarded points on completion of each course, i.e.,* :ref:`AICC/ SCORM <online course>` (or) :reF:`Assessments <assessment>`.
