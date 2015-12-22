@@ -3,7 +3,7 @@
 
 **Gamification**
 ***************
-Gamification is the process used to increase the usability of LMS, by rewarding the users with points & badges in accomplishing the desired task. The main aim of gamification is to offer its users with the game experience without creating the actual game. The benefits of designing the gamification is to help, users experience with LMS at different levels, i.e. the levels helps users to see how they are progressing with respect to other learners.
+Gamification is the process used to increase the engagement of LMS, by rewarding the users with points & badges in accomplishing the desired task. The main aim of gamification is to offer its users with the game experience without creating the actual game. The benefits of designing the gamification is to help, users experience with LMS at different levels, i.e. the levels helps users to see how they are progressing with respect to other learners.
 
 **Advantages of Gamification**
 =============================
