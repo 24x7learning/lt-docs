@@ -1,2 +1,1 @@
 make html
-make latexpdf 
