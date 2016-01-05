@@ -104,12 +104,37 @@
     | - |Cancel-Tab|: Users not attending the trainings can cancel the training nominations.
     | - |Session-Tab|: It displays *WebEx session* details for the users.
     | - |Download-Tab|: Users can download the course completion certificate for *SCORM, AICC, xAPI* courses and the *classroom trainings*.
-    | - |Action-Plan|: Users can provide response to the attached *action plan task* for the classroom trainings.
+    | - |Action-Plan|: Users must provide response to the attached :ref:`action plan task <reporting manager>` for the classroom trainings.
+                
+                        .. image:: _static/action_plan_task_det.png
+                           :height: 350px
+                           :width: 500 px
+                           :scale: 150 %
+                           :align: center
+                           
+                      | * To provide response to the action plan task, click **Review** link.
+                      | * The following **Action Plan Details** screen appears as shown below.
+                      
+                        .. image:: _static/action_plan_apraised.png
+                           :height: 350px
+                           :width: 500 px
+                           :scale: 120 %
+                           :align: center
+                           
+                      | * The user must provide action plan response as the comment and submit it to the reporting manager for the review.
+                      | * The reporting manager then reviews the response and sends it back to the user.
+                      | * The review is done in 2 attempts: 
+                      
+                            | o **Appraised:** When the review status is appraised, it signify the end 
+                            | o **Needs Improvment:** 
+                            
+                           
     | - |Prework-Tab|: It allows users to upload the pre-work resources and also displays any resources uploaded by the administrator.
     | - |Assessment-Tab|:
 
                          | o **Pre-test Assessments:** The pre-test can be accessed before the training starts.
                          | o **Post-test Assessments:** The post-test can be accessed after the training is completed.
+                         .. note:: The assessment test correct answers are displayed only at the end of the post-test assessments.
     | - |Discussion-Tab|: Users can participate in discussion forums on the classroom trainings and the post replies.
     | - |Referemce-Material-Tab|: Users can download the *reference materials* related to the classroom training.
 

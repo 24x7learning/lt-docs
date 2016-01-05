@@ -15,15 +15,16 @@
 **This module is divided into following sub-modules:**
 
   1.	My Users
-  2.	Action Plan Review
-  3.	:ref:`Needbased Training Approval <needbased approvals>`
-  4.	:ref:`Library Approval <library approval>`
-  5.	:ref:`Pre-work Approval <pre work approval>`
-  6.	:ref:`Resource Request Approval <resource request approval>`
-  7.	:ref:`Renew Program Approval <renew program approvals>`
-  8.	:ref:`Assessment Request Approval <assessment request approval>`
-  9.  :ref:`External Qualification Measures Approval <eqm approvals>`
-  10. Supervisor Evaluation Feedback
+  2.	Pending Action Plan Task Creation
+  3.    Pending Action Plan Task Review
+  4.    :ref:`Needbased Training Approval <needbased approvals>`
+  5.	:ref:`Library Approval <library approval>`
+  6.	:ref:`Pre-work Approval <pre work approval>`
+  7.	:ref:`Resource Request Approval <resource request approval>`
+  8.	:ref:`Renew Program Approval <renew program approvals>`
+  9.	:ref:`Assessment Request Approval <assessment request approval>`
+  10.   :ref:`External Qualification Measures Approval <eqm approvals>`
+  11.   Supervisor Evaluation Feedback
 
 **My Users**
 -------------
@@ -118,10 +119,12 @@
 
 **Pending Action Plan Task Creation**
 ------------------------------------
-* Once the classroom training starts and the attendance is taken by the administrator/ trainer, the action plan task creation will be available to the reporting manager under the **Team > Pending Action Plan Task Creation** tab.
-* The reporting manager/supervisor must create :ref:`action plan tasks <action plans>` on the completed classroom trainings.
+* When the classroom training starts and attendance is taken by the administrator/ trainer, the action plan task is available for creation by the reporting manager under the **Team > Pending Action Plan Task Creation** tab.
+* The reporting manager/supervisor creates action plan tasks for the completed classroom trainings.
+* Multiple tasks can be created for a single action plan and the respective task count is displayed.
 .. note:: The reporting manager will receive mail notifications for the action plan task creation for the particular user.
-* The  reporting manager/supervisor create's the task for the action plan.
+* On user account, the user must provide response to the newly assigned action plan task.
+.. note:: The reporting manager will receive mail notifications on the completed user completed action plan task.
 
 *To create action plan task:*
 
@@ -144,7 +147,6 @@
          | * Fill-in the relevant details and click **Submit**.
 
 .. note:: The user will receive a mail notifications on the newly added action plan task.
-* On user account, the user must provide review on the newly assigned action plan task.
 
 *To view action plan task details:*
 

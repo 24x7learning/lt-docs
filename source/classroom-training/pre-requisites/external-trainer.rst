@@ -7,7 +7,7 @@
 **Manage External Trainers**
 ***************************
 •	The administrator can create the external :ref:`trainers <trainer>` and map it to the :ref:`vendors <vendors>`.
-•	The external trainers allocated are listed in the dropdown list at the time of instance creation  the classroom trainings.
+•	The external trainer is allocated to a particular classroom training which is listed in the drop down list at the time of instances creation.
 •	External trainers can be created, edited, deleted and the details on external trainers can be viewed such as *Trainer Name, Vendor Name, Created By and On* of the trainings.
 
 *To access external trainers:*

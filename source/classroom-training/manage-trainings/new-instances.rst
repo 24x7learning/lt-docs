@@ -36,6 +36,7 @@ When new training is created *new instance* are also created. Single classroom t
 .. note:: •	*Maximum participants* must be less than or equal to the training room capacity.
   •	*Last date of nomination* and *Cancel Before* date & time must be greater than *session timings*.
   •	A single instance, can have multiple class sessions.
+  • The instance created is assigned to either **internal or external** trainer. The external trainer will receive mail notification for the assigned training instances with the blog details.
   • Mail notifications is sent to the users and marking an **copy (cc)** to the reporting manager/ supervisor on self-enrollment of training instance, re-scheduling of trainings and on cancellation of training instances.
   •	|Add-Sign| Adds multiple sessions to single instance and |Minus-Sign| removes sessions from a particular instances.
 

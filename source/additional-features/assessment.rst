@@ -210,7 +210,7 @@ Questions can be imported in bulk based on the question types, which is chosen f
       | o	*Questions Mandatory:* All the compulsory questions must be answered.
       | o	*Shuffle Questions:* Questions are displayed in a randomized order.
       | o	*Shuffle Options:* Answer options are displayed in the randomized order.
-      | o	*Enable Review:* Users have the option to review the completed test.
+      | o	*Enable Review:* Users have the option to review the answers of the completed test.
       | o	*Randomized:* Test questions are presented to the user in the randomized order.
       .. image:: _static/crt_ass.png
          :height: 350px
