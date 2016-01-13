@@ -121,13 +121,8 @@
                            :scale: 120 %
                            :align: center
                            
-                      | * The user must provide action plan response as the comment and submit it to the reporting manager for the review.
-                      | * The reporting manager then reviews the response and sends it back to the user.
-                      | * The review is done in 2 attempts: 
-                      
-                            | o **Appraised:** When the review status is appraised, it signify the end 
-                            | o **Needs Improvment:** 
-                            
+                      | * The user must provide action plan response as a comment and submit it to the reporting manager for the review.
+                      | * The reporting manager reviews the response and sends it back to the user.                      
                            
     | - |Prework-Tab|: It allows users to upload the pre-work resources and also displays any resources uploaded by the administrator.
     | - |Assessment-Tab|:
@@ -179,10 +174,11 @@
 
 **My Action Plans**
 ===================
-* The newly assigned action plan tasks to the user by the reporting manager will be listed under this tab.
+* The newly assigned action plan tasks by the reporting manager will be listed under this tab.
 * The user must provide response to the assigned action plan task.
 .. note:: A mail notification is sent to the reporting manager on the completed action plan task.
 * The action plan task response details is sent to the reporting manager/ supervisor for the review.
+* The reporting manager reviews the response and sends it back to the user.
 
 *To provide action plan task response:*
 

@@ -128,7 +128,7 @@
 
 *To create action plan task:*
 
-    | * Click **Team > Pending Action Plan Task Creation**. The following **Pending Action Plan Task Creation** screen appears as shown below.
+    o Click **Team > Pending Action Plan Task Creation**. The following **Pending Action Plan Task Creation** screen appears as shown below.
 
       .. image:: _static/action_plan_task_crt.png
          :height: 250px
@@ -136,25 +136,51 @@
          :scale: 120 %
          :align: center
 
-    | * Click **New Task** to create new task for the action plan. The following **Create Task** screen appears as below.
+    
+   o Click **New Task** to create new task for the action plan. The following **Create Task** screen appears as below.
 
+      
       .. image:: _static/crt_task.png
          :height: 250px
          :width: 500 px
          :scale: 120 %
          :align: center
+         
 
-         | * Fill-in the relevant details and click **Submit**.
+   o Fill-in the relevant details and click **Submit**.
 
 .. note:: The user will receive a mail notifications on the newly added action plan task.
 
 *To view action plan task details:*
 
-    | * Click **Task Details** to view information on the 
+    | * Click **Task Details** displays information on the action plan task.
 
 **Pending Action Plan Task Review**
 ----------------------------------
+* The reporting manager reviews the action plan task response sent by the user.
+* The review process is done in 2 iterations: 
+                      
+  | o **Appraised:** When the status is appraised, it signify end of the review.
+  | o **Needs Improvment:** When the status is needs improvement, it signify one more review attempt to be completed.
+  
+*To access:*
 
+    o  Click **Team > Pending Action Plan Task Review**. The following **Pending Action Plan Task Review** screen appears as below.
+  
+      .. image:: _static/action_plan_task_review.png
+         :height: 250px
+         :width: 500 px
+         :scale: 120 %
+         :align: center
+         
+    o  Click **Review**. The following **Action Plan Details** screen appears as shown below.  
+    
+      .. image:: _static/action_plan_apraised.png
+         :height: 250px
+         :width: 500 px
+         :scale: 120 %
+         :align: center
+    
 **Supervisor Evaluation Feedback**
 ----------------------------------
 * The supervisor/ reporting manager must give *evaluation feedback* to the users for the particular classroom training.
